@@ -1,0 +1,4 @@
+class Codigo < ApplicationRecord
+
+  
+end
